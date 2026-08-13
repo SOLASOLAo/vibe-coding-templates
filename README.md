@@ -62,3 +62,5 @@ cp -r vibe-coding-templates/ai-repo-skeleton/. /path/to/MyProject/
 
 - **FreePLCDemo** —— 路线④ PREEMPT_RT + IgH EtherCAT + OpenPLC v4 软 PLC 原型
   (`/media/administrator/D/FreePLC/FreePLCDemo`,2026-08-12)
+- **VsCodeIDE_OpenPlc** —— VS Code 替代 OpenPLC Editor(ST-only:STruCpp 编程 + 在线监控扩展 + 部署胶水 + 本地仿真)
+  (`C:\A_Documents\A_Projects\A_Software\PLC_Generate\VsCodeIDE_OpenPlc`,2026-08-13)
