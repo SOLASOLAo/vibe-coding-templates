@@ -1,0 +1,9 @@
+# 按项目技术栈补充缓存和构建输出；不要忽略需要版本管理的素材或锁文件。
+.env
+.env.*
+!.env.example
+!.env.*.example
+artifacts/
+*.log
+.DS_Store
+Thumbs.db
